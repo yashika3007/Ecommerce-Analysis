@@ -7,3 +7,5 @@
 - Data Visualization.
 - Dashboard Desingn.
 - Sharing Insights.
+## Objective
+Owner of Suresh Store wants us to help them create a dashboard to track and analyze their online sales across India.
