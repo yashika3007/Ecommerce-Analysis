@@ -19,3 +19,14 @@ Owner of Suresh Store wants us to help them create a dashboard to track and anal
   
 ## Dashboard
 ![Eommerce Dashboard](https://github.com/user-attachments/assets/093df1bb-7caf-4b6a-aa34-3c66fb22d59a)
+
+## Project Learning
+- Created interactive dashboard to track and analyze online
+ sales data
+- Used complex parameter to drill down in worksheet and
+ customization using filters and slicers.
+- Created connections , join new tables, calculations to
+  manipulate data and enable user driven parameters for
+  visualizations.
+- Used different types of customized visualizations ( Bar chart,
+  scatter chart, line chart, area chart , map , slicers, etc
